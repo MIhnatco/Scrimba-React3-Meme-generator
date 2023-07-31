@@ -3,8 +3,8 @@ import Header from './Header'
 
 
 describe("Header component test", () => {
-    
-    test("all elements renders", () => {
+
+     test("all elements renders", () => {
         render(<Header />)
     
             //headings element are present
