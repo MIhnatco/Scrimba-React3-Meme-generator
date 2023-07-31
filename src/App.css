@@ -68,3 +68,8 @@ main {
         margin: 0 auto;
     }
 }
+
+
+.meme--image {
+    max-width: 100%;
+}
