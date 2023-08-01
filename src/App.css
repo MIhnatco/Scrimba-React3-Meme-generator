@@ -67,9 +67,16 @@ main {
         max-width: 1200px;
         margin: 0 auto;
     }
+
+    .header--project {
+        font-size:1rem;
+        font-weight: 900;
+    }
+
+
 }
 
 
 .meme--image {
-    max-width: 100%;
+    width: 100%;
 }
